@@ -1,4 +1,15 @@
 .idea/
-.venv/
 .claude/
 .git/
+
+# Python 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
