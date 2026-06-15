@@ -13,3 +13,20 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# 环境变量
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
